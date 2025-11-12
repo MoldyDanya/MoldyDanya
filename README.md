@@ -24,7 +24,12 @@ I'm a versatile engineer with **6+ years in game development**, covering Unity d
 
 ### 📄 CV & Resume
 
-Detailed CV with project experience and tech stack: [my-cv repository](https://github.com/MoldyDanya/my-cv)
+- Full CV with project history: [my-cv repository](https://github.com/MoldyDanya/my-cv)
+- DevOps/SRE focused resume (rus): [devops-cv-ru.md](https://github.com/MoldyDanya/my-cv/devops-cv-ru.md)
+
+### 💼 Portfolio
+
+- **[DevOps Portfolio](https://github.com/MoldyDanya/devops-portfolio)** - Reusable GitHub Actions workflows and composite actions for Unity mobile CI/CD (examples and templates)
 
 ---
 
