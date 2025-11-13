@@ -24,8 +24,14 @@ I'm a versatile engineer with **6+ years in game development**, covering Unity d
 
 ### 📄 CV & Resume
 
-- Full CV with project history: [my-cv repository](https://github.com/MoldyDanya/my-cv)
-- DevOps/SRE focused resume (rus): [devops-cv-ru.md](https://github.com/MoldyDanya/my-cv/blob/main/devops-cv-ru.md)
+**Full CV / Полное CV**
+- [Master CV (English)](https://github.com/MoldyDanya/my-cv/blob/main/master-cv-en.md)
+- [Master CV (Русский)](https://github.com/MoldyDanya/my-cv/blob/main/master-CV-ru.md)
+
+**Specialized Resumes / Специализированные резюме**
+- DevOps/SRE: [English](https://github.com/MoldyDanya/my-cv/blob/main/devops-cv-en.md) | [Русский](https://github.com/MoldyDanya/my-cv/blob/main/devops-cv-ru.md)
+- Unity Gameplay Developer: [English](https://github.com/MoldyDanya/my-cv/blob/main/unity-gameplay-developer-cv-en.md) | [Русский](https://github.com/MoldyDanya/my-cv/blob/main/unity-gameplay-developer-cv-ru.md)
+- Unity Technical Developer: [English](https://github.com/MoldyDanya/my-cv/blob/main/unity-technical-developer-cv-en.md) | [Русский](https://github.com/MoldyDanya/my-cv/blob/main/unity-technical-developer-cv-ru.md)
 
 ### 💼 Portfolio
 
