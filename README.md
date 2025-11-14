@@ -35,6 +35,7 @@ I'm a versatile engineer with **6+ years in game development**, covering Unity d
 
 ### 💼 Portfolio
 
+- **[Unity Match 3](https://github.com/MoldyDanya/unity-match-3)** - Classic Match-3 game on Unity. Project showcases core gameplay loop.
 - **[DevOps Portfolio](https://github.com/MoldyDanya/devops-portfolio)** - Reusable GitHub Actions workflows and composite actions for Unity mobile CI/CD (examples and templates)
 
 ---
